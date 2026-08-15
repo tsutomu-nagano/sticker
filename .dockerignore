@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+build
+.git
+.vercel
+PROJECT_STATUS.md
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+*.tsbuildinfo
